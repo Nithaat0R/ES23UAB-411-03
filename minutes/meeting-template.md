@@ -1,0 +1,17 @@
+# MEETING X
+
+### DATE:
+2024-MM-DD
+
+### ATTENDEES:
+Aarón?
+Adriá?
+Luca?
+
+## MINUTES OF THE MEETING:
+- DECISIÓ
+- DECISIÓ
+- DECISIÓ
+
+---
+
