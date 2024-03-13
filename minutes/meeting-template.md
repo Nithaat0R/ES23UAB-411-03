@@ -1,7 +1,7 @@
 # MEETING X
 
 ### DATE:
-2024-MM-DD
+2024-MM-DD -- 00:00 - 00:00
 
 ### ATTENDEES:
 Aarón?
