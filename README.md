@@ -19,5 +19,5 @@ Aparte de las carpetas exigidas por el enunciado de la práctica es necesario fo
 4. Por último haremos ```git push``` tanto en nuestra rama como en *master*, si es una versión definitiva.[^2] 
 
 [^1]: Los mensajes de los commits deberán seguir este formato: "CX: *Your commit message*.  
-La primera X hace referencia al número de commit. **Aclaración** &rarr; Cada rama tendrá su propia seqüencia. 
+La primera X hace referencia al número de commit. **Aclaración** &rarr; Cada rama tendrá su propia seqüencia. En caso de ser un merge-commit el mensaje deberá seguir el siguiente formato: "MX: *Your merge message*".
 [^2]: En el caso de *master* se tendrá que hacer un forward merge antes de poder hacer un push.
