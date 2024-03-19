@@ -1,6 +1,6 @@
 # ES23UAB-411-03
 ---
-Pràctiques Enginyeria del Software
+Pràctiques Enginyeria del Software  
 Autors: Luca Meloni, Aaron Condoblea, Albert Vacas, José Ortín, Adrià Martìn
 ---
 # Organización General
