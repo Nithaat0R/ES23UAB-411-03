@@ -14,7 +14,7 @@ Requeriment Funcional
 
 ### TITLE:
 
-Integrar Publicitat de Producte d'interès del client.
+Integrar publicitat de producte d'interès del client.
 
 ### DESCRIPTION:
 
