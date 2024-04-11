@@ -1,0 +1,18 @@
+# Requirement
+
+### ID:
+RQ-6.06
+### TYPE/CATEGORY:
+RF
+### VERSION:
+1.0
+### TITLE:
+Eliminar compte d'usuari
+### DESCRIPTION:
+Cada usuari que tingui un compte creat a la plataforma ha de poder donar-se de baixa sempre que vulgui. 
+### RELATIONS:
+*Sense completar(pending)*
+### COMMENTS:
+&rarr; *Edited by Albert.* [20/03/2024]: Requisito creado.
+
+---
