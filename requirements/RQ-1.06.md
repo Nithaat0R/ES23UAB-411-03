@@ -3,7 +3,7 @@
 ### ID:
 RQ-1.06
 ### TYPE/CATEGORY:
-RNF-RIE
+RNF-ODD
 ### VERSION:
 1.01
 ### TITLE:
