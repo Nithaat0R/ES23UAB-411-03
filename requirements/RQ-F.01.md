@@ -5,7 +5,7 @@ RQ-F.01
 ### TYPE/CATEGORY:
 RF
 ### VERSION:
-1.0
+1.00
 ### TITLE:
 Acceptar la comanda feta.
 ### DESCRIPTION:
